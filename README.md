@@ -14,6 +14,8 @@ Feel free to contact me , I am always here ....
  https://www.linkedin.com/in/oumaima-souguir-8499a71bb/
  🙌 Find me at :
  @SouguirOumaima
- 
+ 💻 Languages and tools 🛠️:
+ Spring Git GitHub VisualStudioCode HTML5 CSS3 MongoDB Pl/sql Bootstrap React Java Javascript 
+ Nodejs Mysql 
  
 
