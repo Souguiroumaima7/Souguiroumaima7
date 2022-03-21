@@ -9,7 +9,6 @@ Feel free to contact me , I am always here ....
 - 💬 Ask me about anthing
 - 📫 How to reach me:
  gmail : oumaimasouguir79@gmail.com  
- github : @Souguiroumaima7 
 linkedin : https://www.linkedin.com/in/oumaima-souguir-8499a71bb/ 
 
 
