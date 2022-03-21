@@ -8,7 +8,9 @@ Feel free to contact me , I am always here ....
 - 👯 I’m looking to collaborate with peoples
 - 💬 Ask me about anthing
 - 📫 How to reach me:
-oumaimasouguir79@gmail.com  @Souguiroumaima7  https://www.linkedin.com/in/oumaima-souguir-8499a71bb/ 
+ gmail : oumaimasouguir79@gmail.com  
+ github : @Souguiroumaima7 
+linkedin : https://www.linkedin.com/in/oumaima-souguir-8499a71bb/ 
 
 
 
