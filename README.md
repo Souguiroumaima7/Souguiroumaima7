@@ -3,7 +3,7 @@
 
 
 Feel free to contact me , I am always here .... 
-- 👩‍💻 I am passionate self-taught Computer science engineering student from Tunisia
+- 👩‍💻 I am passionate self-taught Computer science student from Tunisia
 - ✨I am Junior  ML & AI enthusiast
 - 👯 I’m looking to collaborate with peoples
 - 🛸I love exploring new tech stack and building cool stuffs
