@@ -6,7 +6,7 @@
 - ✨I am Junior  ML & AI enthusiast
 - 👯 I’m looking to collaborate with peoples
 - 🛸I love exploring new tech stack and building cool stuffs
-- 💬 Ask me about anthing
+- 💬 Ask me about anything
 - 📫 How to reach me:
   oumaimasouguir79@gmail.com  
  📫 How to reach me on LinkedIn : 
