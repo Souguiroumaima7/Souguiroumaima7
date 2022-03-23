@@ -1,8 +1,7 @@
 ### Hi there, My name is oumaima souguir and I'm  machine learning enthusiast 👋
 
+⚡️Talking about Personal Stuffs:
 
-
-Feel free to contact me , I am always here .... 
 - 👩‍💻 I am passionate self-taught Computer science student from Tunisia
 - ✨I am Junior  ML & AI enthusiast
 - 👯 I’m looking to collaborate with peoples
@@ -18,4 +17,6 @@ Feel free to contact me , I am always here ....
  Spring,Git,GitHub,VisualStudioCode,HTML5,CSS3,MongoDB,Pl/sql,Bootstrap,React,Java,avascript 
  Nodejs,Mysql 
  
+ 
+Feel free to contact me , I am always here .... 
 
