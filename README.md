@@ -14,9 +14,9 @@
  🙌 Find me at :
  @SouguirOumaima
  💻 Languages and tools 🛠️:
- Spring,Git,GitHub,VisualStudioCode,HTML5,CSS3,MongoDB,Pl/sql,Bootstrap,React,Java,avascript 
- Nodejs,Mysql 
- 
+ Spring,Git,GitHub,VisualStudioCode,HTML5,CSS3,MongoDB,Pl/sql,Bootstrap,React,Java,javascript 
+ Nodejs,Mysql, machine learning,Pl/SQL,vue.js
+ ,OracleDB
  
 Feel free to contact me , I am always here .... 
 
