@@ -9,7 +9,9 @@
 - 💬 Ask me about anything
 - 📫 How to reach me:
   GMAIL : oumaimasouguir79@gmail.com 
+  
  📫 How to reach me on LinkedIn : 
+ 
  https://www.linkedin.com/in/oumaima-souguir-8499a71bb/
  
  🙌 Find me at :
