@@ -15,8 +15,9 @@
  🙌 Find me at :
 
    @SouguirOumaima
- ***********************************************************************************************************************************************************************
+
  💻 Languages and tools 🛠️:
+ 
    ⚡️Technologies :
 Python/html/CSS/JavaScript/php/Angular/react.js/Spring
 framework/bootstrap/hibernate/jpa/spa/typescript/maven/
