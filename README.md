@@ -1,4 +1,4 @@
-##### Hi there, My name is oumaima souguir and I'm  machine learning enthusiast 👋
+############ Hi there, My name is oumaima souguir and I'm  machine learning enthusiast and software Enginner ########## 👋
  
 ⚡️Talking about Personal Stuffs:
 
@@ -7,8 +7,9 @@
 - 👯 I’m looking to collaborate with peoples
 - 🛸I love exploring new tech stack and building cool stuffs
 - 💬 Ask me about anything
+
 - 📫 How to reach me:
-  GMAIL : oumaimasouguir79@gmail.com 
+  GMAIL : oumaimasouguir79@gmail.com  
   
  📫 How to reach me on LinkedIn : 
  
@@ -16,23 +17,28 @@
  
  🙌 Find me at :
 
-   @SouguirOumaima
+  @SouguirOumaima
 
  💻 Languages and tools 🛠️:
  
-   ⚡️Technologies :
-Python/html/CSS/JavaScript/php/Angular/react.js/Spring
-framework/bootstrap/hibernate/jpa/spa/typescript/maven/
-docker/GCP/Kubernetes,Java, machine learning
+ 
+⚡️Technologies :
+
+Python/html/CSS/JavaScript/php/Angular/react.js / Spring
+boot /Spring MVC /MEAN Stack (MongoDB,Express.js , Node.js, Angular.js) /Spring web / spring data 
+/bootstrap/typescript/maven/ Nodejs/express.js/
+docker/Kubernetes/Java/ machine learning/deelearning/ Laravel 
 
 ⚡️tools :
 GIT/eclipse/STS/Postman/sublime text/visual studio
 code / wampserver/ ubuntu terminal/ Jira
 
-⚡️tests : junit
+⚡️tests : junit4 
 
 ⚡️database : 
-oracle(PL/SQL)/SQL/MySQL Workbench. Methodologie : Scrum
+oracle(PL/SQL)/SQL/MySQL Workbench/ MongoDB / Neo4j 
+
+⚡️ Methodologie : Scrum 
  
 Feel free to contact me , I am always here .... 
 
