@@ -22,7 +22,7 @@
  ⚡️ know about some of my certification and badges : 
   quiklabs : https://www.cloudskillsboost.google/public_profiles/a176fc64-9323-4555-9941-25efb90c1e4b
   
-  
+  Pluralsight : https://app.pluralsight.com/achievements?badge=ac0ada2e-c2bb-4585-a143-42b6cb82682b
 
  💻 Languages and tools 🛠️:
  
