@@ -23,7 +23,7 @@
   quiklabs : https://www.cloudskillsboost.google/public_profiles/a176fc64-9323-4555-9941-25efb90c1e4b
   
   Pluralsight : https://app.pluralsight.com/achievements 
-  Pluralsight : https://app.pluralsight.com/achievements
+
 
  💻 Languages and tools 🛠️:
  
