@@ -1,4 +1,4 @@
-############ Hi there, My name is oumaima souguir and I'm  machine learning enthusiast and software Enginner ########## 👋
+ 👋👋👋👋👋 Hi there, My name is oumaima souguir and I'm fullstack developer enthusiaste  👋 👋👋👋👋
  
 ⚡️Talking about Personal Stuffs:
 
@@ -30,21 +30,23 @@
  
 ⚡️Technologies :
 
-Python/html/CSS/JavaScript/php/Angular/react.js / Spring
-boot /Spring MVC /MEAN Stack (MongoDB,Express.js , Node.js, Angular.js) /Spring web / spring data 
-/bootstrap/typescript/maven/ Nodejs/express.js/
-docker/Kubernetes/Java/ machine learning/deelearning/ Laravel 
+Python/html/CSS/JavaScript/Angular/Spring
+boot /Spring MVC /MEAN Stack (MongoDB,Express.js,Node.js,Angular.js) /Spring web
+/bootstrap/typescript/maven/Nodejs/express.js/
+docker/Java 
 
 ⚡️tools :
-GIT/eclipse/STS/Postman/sublime text/visual studio
+GIT/eclipse/Postman/sublime text/visual studio
 code / wampserver/ ubuntu terminal/ Jira
 
 ⚡️tests : junit4 
 
 ⚡️database : 
-oracle(PL/SQL)/SQL/MySQL Workbench/ MongoDB / Neo4j 
+oracle(PL/SQL)/MySQL Workbench/MongoDB
 
-⚡️ Methodologie : Scrum 
+⚡️ Methodologie : Scrum    
+
+
  
 Feel free to contact me , I am always here .... 
 
