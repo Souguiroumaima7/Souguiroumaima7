@@ -22,6 +22,13 @@
 
   @SouguirOumaima
   
+   ⚡️You can Find Me at : 
+   LeetCode :
+   https://leetcode.com/Souguiroumaima7/
+   
+   HackerRank : 
+   https://www.hackerrank.com/oumaimasouguir79
+    
  ⚡️ know about some of my certification and badges : 
   quiklabs :
   https://www.cloudskillsboost.google/public_profiles/a176fc64-9323-4555-9941-25efb90c1e4b
