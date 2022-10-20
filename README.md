@@ -31,13 +31,18 @@
   
   Coursera : 
   https://www.coursera.org/accomplishments
+  
+ ⚡️ You Can find Me at medium 
+ https://medium.com/@oumaimasouguir79
+ 
+ 
  💻 Languages and tools 🛠️:
  
 ⚡️Technologies :
 
-Python/html/CSS/JavaScript/Angular/Spring
-boot /Spring MVC /MEAN Stack (MongoDB,Express.js,Node.js,Angular.js) / Spring/ MERN Stack 
-/bootstrap/typescript/maven
+Python /html/ CSS/ JavaScript/ Angular/ Spring
+boot  / MEAN Stack (MongoDB,Express.js,Node.js,Angular.js) / Spring / MERN Stack 
+/bootstrap/ typescript/ maven
 docker / Java / JavaScript / Kotlin
 
 ⚡️tools :
@@ -50,7 +55,7 @@ code / wampserver/ ubuntu terminal/ Jira
 oracle(PL/SQL)/MySQL/MongoDB/Sql Developer
 
 ⚡️ Methodologie : Scrum    
-
+         
 
  
 Feel free to contact me , I am always here .....
