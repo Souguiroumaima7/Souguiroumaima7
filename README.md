@@ -1,16 +1,18 @@
- 👋👋👋👋👋 Hi there, My name is oumaima souguir and I'm Junior fullstack developer enthusiast  👋 👋👋👋👋
+ 👋👋👋👋👋 Hi there, My name is oumaima souguir and I'm Junior fullstack Software Engineer  👋 👋👋👋👋    
  
+ 
+ ![concentrate-focus](https://user-images.githubusercontent.com/81293137/196886229-8cb169cd-45d6-41a6-81eb-0fa8d941a4fe.gif)
+
 ⚡️Talking about Personal Stuffs:
 
 - 👩‍💻 I am passionate self-taught Computer science student from Tunisia
-- ✨I am Junior  ML & AI enthusiast
 - 👯 I’m looking to collaborate with peoples
 - 🛸I love exploring new tech stack and building cool stuffs
 - 💬 Ask me about anything
 
 - 📫 How to reach me:
   GMAIL : oumaimasouguir79@gmail.com  
-  
+  GMAIL : oumaimasouguir952@gmail.com  
   
  📫 How to reach me on LinkedIn : 
  
@@ -26,17 +28,17 @@
   
   Pluralsight :
   https://app.pluralsight.com/achievements 
-
-
+  
+  Coursera : 
+  https://www.coursera.org/accomplishments
  💻 Languages and tools 🛠️:
- 
  
 ⚡️Technologies :
 
 Python/html/CSS/JavaScript/Angular/Spring
-boot /Spring MVC /MEAN Stack (MongoDB,Express.js,Node.js,Angular.js) /Spring web
-/bootstrap/typescript/maven/Nodejs/express.js/
-docker/Java 
+boot /Spring MVC /MEAN Stack (MongoDB,Express.js,Node.js,Angular.js) / Spring/ MERN Stack 
+/bootstrap/typescript/maven
+docker / Java / JavaScript / Kotlin
 
 ⚡️tools :
 GIT/eclipse/Postman/sublime text/visual studio
@@ -45,7 +47,7 @@ code / wampserver/ ubuntu terminal/ Jira
 ⚡️tests : junit4 
 
 ⚡️database : 
-oracle(PL/SQL)/MySQL Workbench/MongoDB
+oracle(PL/SQL)/MySQL/MongoDB/Sql Developer
 
 ⚡️ Methodologie : Scrum    
 
