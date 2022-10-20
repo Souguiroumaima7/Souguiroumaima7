@@ -23,6 +23,7 @@
   @SouguirOumaima
   
    ⚡️You can Find Me at : 
+   
    LeetCode :
    https://leetcode.com/Souguiroumaima7/
    
@@ -30,6 +31,7 @@
    https://www.hackerrank.com/oumaimasouguir79
     
  ⚡️ know about some of my certification and badges : 
+ 
   quiklabs :
   https://www.cloudskillsboost.google/public_profiles/a176fc64-9323-4555-9941-25efb90c1e4b
   
@@ -39,7 +41,9 @@
   Coursera : 
   https://www.coursera.org/accomplishments
   
- ⚡️ You Can find Me at medium 
+ ⚡️ You Can find Me at
+ 
+ medium 
  https://medium.com/@oumaimasouguir79
  
  
@@ -53,12 +57,15 @@ boot  / MEAN Stack (MongoDB,Express.js,Node.js,Angular.js) / Spring / MERN Stack
 docker / Java / JavaScript / Kotlin
 
 ⚡️tools :
+
 GIT/eclipse/Postman/sublime text/visual studio
 code / wampserver/ ubuntu terminal/ Jira
 
-⚡️tests : junit4 
+⚡️tests :
+junit4 
 
 ⚡️database : 
+
 oracle(PL/SQL)/MySQL/MongoDB/Sql Developer
 
 ⚡️ Methodologie : Scrum    
