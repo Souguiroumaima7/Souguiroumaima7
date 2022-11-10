@@ -54,7 +54,7 @@
 Python /html/ CSS/ JavaScript/ Angular/ Spring
 boot  / MEAN Stack (MongoDB,Express.js,Node.js,Angular.js) / Spring / MERN Stack 
 /bootstrap/ typescript/ maven
-docker / Java / JavaScript / Kotlin
+docker / Java / JavaScript
 
 ⚡️tools :
 
@@ -66,7 +66,7 @@ junit4
 
 ⚡️database : 
 
-oracle(PL/SQL)/MySQL/MongoDB/Sql Developer
+oracle(PL/SQL)/MySQL/MongoDB
 
 ⚡️ Methodologie : Scrum    
          
