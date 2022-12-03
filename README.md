@@ -1,7 +1,5 @@
  👋👋👋👋👋 Hi there, My name is oumaima souguir and I'm Junior fullstack Software Engineer  👋 👋👋👋👋    
- 
- 
- ![concentrate-focus](https://user-images.githubusercontent.com/81293137/196886229-8cb169cd-45d6-41a6-81eb-0fa8d941a4fe.gif)
+
 
 ⚡️Talking about Personal Stuffs:
 
@@ -41,10 +39,6 @@
   Coursera : 
   https://www.coursera.org/accomplishments
   
- ⚡️ You Can find Me at
- 
- medium 
- https://medium.com/@oumaimasouguir79
  
  
  💻 Languages and tools 🛠️:
@@ -53,7 +47,7 @@
 
 Python /html/ CSS/ JavaScript/ Angular/ Spring
 boot  / MEAN Stack (MongoDB,Express.js,Node.js,Angular.js) / Spring / MERN Stack 
-/bootstrap/ typescript/ maven
+/bootstrap/ typescript/ maven \ vueJS \nextJS 
 docker / Java / JavaScript
 
 ⚡️tools :
