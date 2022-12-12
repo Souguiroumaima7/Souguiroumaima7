@@ -40,9 +40,6 @@
   https://www.coursera.org/accomplishments
   
  
- 
- 💻 Languages and tools 🛠️:
- 
 <h3 align="left" style="margin-top: 50px;">Languages and Tools:</h3>
 <p align="left" style="
     top: 0;
@@ -72,7 +69,81 @@
  <a style="margin-left: 10px;" style="margin-left: 10px;" href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-         
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+
+
+<h3 style="margin-top: 50px;">Contact Me</h3>
+
+<div   class="container">
+  <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSe1cxLhUX8g2ZTnhdafx4k6jumARg3i2V9_vCEo7d3RWidfPA/formResponse">
+    <label for="fname">First Name</label>
+    <input type="text" id="name" name="firstname" placeholder="Your name.." required name="1825718180">
+
+    <label for="lname">Email</label>
+    <input type="text" id="email" name="lastname" placeholder="Your email.." required name="">
+
+    <label for="country">Country</label>
+    <input type="text" id="country" name="country" placeholder="Your country" required name="">
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px" required name=""></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+
+
+<footer>
+  <div align="center" style="
+    top: 0;
+    bottom: 50px;
+    margin: 50px;
+    background-color: ;">
+  <p><b>Thank You</b></p>
+  <p><a href="mailto:amritanjai918@gmail.com">oumaimasouguir95@gmail.com</a></p>
+ <p>Copyright &copy; 2020 <span></span> All Rights Reserved by oumaima souguir</p>
+     </div>
+</footer>  
+</div>
+</div> 
+ </body>
+</html>  
 
  
 Feel free to contact me , I am always here .....
