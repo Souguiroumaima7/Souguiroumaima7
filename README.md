@@ -61,7 +61,7 @@ springboot
     margin: 50px;
     background-color: ;">
   <p><b>Thank You</b></p>
-  <p><a href="mailto:amritanjai918@gmail.com">oumaimasouguir95@gmail.com</a></p>
+  <p><a href="mailto:oumaimasouguir952@gmail.com">oumaimasouguir952@gmail.com</a></p>
  <p>Copyright &copy; 2020 <span></span> All Rights Reserved by oumaima souguir</p>
      </div>
 </footer>  
