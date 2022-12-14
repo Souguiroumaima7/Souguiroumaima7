@@ -41,7 +41,18 @@
   
  
 <h3 align="left" style="margin-top: 50px;">Languages and Tools:</h3>
-angular  reactjs nodejs  mongodb java javascript  ExpressJS vuejs mysql android firebase springboot 
+angular 
+reactjs
+nodejs 
+mongodb 
+java
+javascript
+ExpressJS 
+vuejs
+mysql
+android 
+firebase
+springboot 
 
 <footer>
   <div align="center" style="
