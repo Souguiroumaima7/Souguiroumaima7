@@ -66,7 +66,8 @@
 <a style="margin-left: 10px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a style="margin-left: 10px;" href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a style="margin-left: 10px;" href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a style="margin-left: 10px;" style="margin-left: 10px;" href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+ <a style="margin-left: 10px;" style="margin-left: 10px;" href="https://angular.io/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/> </a>
+ 
 </p>
 
 
