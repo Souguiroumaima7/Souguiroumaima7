@@ -1,4 +1,4 @@
- 👋👋👋👋👋 Hi there, My name is oumaima souguir and I'm Junior fullstack Software Engineer  👋 👋👋👋👋    
+ 👋👋👋👋👋 Hi there, My name is oumaima souguir and I'm Junior fullstack Web developer  👋 👋👋👋👋    
 
 
 ⚡️Talking about Personal Stuffs:
@@ -39,20 +39,9 @@
   Coursera : 
   https://www.coursera.org/accomplishments
   
- 
-<h3 align="left" style="margin-top: 50px;">Languages and Tools:</h3>
-angular 
-reactjs
-nodejs 
-mongodb 
-java
-javascript
-ExpressJS 
-vuejs
-mysql
-android 
-firebase
-springboot 
+Languages and Tools :
+angular/nodejs/mongodb/java/javascript/ExpressJS/mysql/springboot/laragon/wampserver/eclipse
+
 
 <footer>
   <div align="center" style="
