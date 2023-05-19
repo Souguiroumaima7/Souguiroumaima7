@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js 18 , Vue.js 3 , microservices , springJPA**
 
-- 💬 Ask me about **Vue.js , angular.js, Node.js , Springboot**
+- 💬 Ask me about **Vue.js , angular.js, Node.js , Springboot, React.js**
 
 - 📫 How to reach me **Oumaimasouguir952@gmail.com**
 
