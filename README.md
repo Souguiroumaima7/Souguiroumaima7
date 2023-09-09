@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souguiroumaima7&label=Profile%20views&color=0e75b6&style=flat" alt="souguiroumaima7" /> </p>
 
-- 🌱 I’m currently learning **React.js 18 , Vue.js 3 ,Angular.js **
-
-- 💬 Ask me about **Vue.js , angular.js, Node.js **
-
-- 📫 How to reach me **Oumaimasouguir952@gmail.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
