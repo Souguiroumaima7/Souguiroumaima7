@@ -1,103 +1,60 @@
-# Oumaima Souguiroumaima7
+# Oumaima – Junior SOC Analyst & Cybersecurity Engineer
 
-👋 Welcome to my GitHub profile!  
-I am a passionate **Security Analyst** with strong experience in SOC operations, incident response, Identity and Access Management (IAM), and cloud security. I specialize in threat detection, vulnerability management, and delivering actionable insights to protect enterprise environments.
-
----
-
-## About Me
-
-- Experienced in managing over 50+ security incidents, increasing threat detection efficiency by 30% using tools like **Splunk** and **CrowdStrike**  
-- Skilled in endpoint detection, threat hunting, and log analysis  
-- Strong communicator, adept at mentoring and collaborating with cross-functional teams  
-- Enthusiast of continuous learning in cybersecurity, cloud technologies, and ethical hacking  
+Hi, I’m **Oumaima**, a passionate SOC Analyst and Cybersecurity Engineer with hands-on experience in **threat detection, incident response, cloud security**, and **DevSecOps**. I build secure systems, hunt threats proactively, and bridge the gap between development and security with automation and AI-driven SOC solutions.  
 
 ---
 
-## Skills
+## 🛡️ Core Expertise
 
-- Security Operations Center (SOC) | Incident Response  
-- Identity & Access Management (IAM)  
-- Threat Hunting & Vulnerability Assessment  
-- Endpoint Detection & Response (EDR)  
-- Cloud Security: AWS, Microsoft Azure  
-- SIEM Tools: Splunk, CrowdStrike  
-- Programming & Scripting: Python, PowerShell  
-- Cybersecurity Frameworks: MITRE ATT&CK, ISO/IEC 27001  
-- Network Traffic Analysis & Windows Event Log Analysis  
-- Security Advisory & Risk Management  
+- **SOC & Threat Detection:** SIEM (Splunk), Endpoint Security (EDR), IDS/IPS, Network & System Monitoring, Incident Response  
+- **Cloud & DevSecOps:** AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions, Cloud Security Monitoring  
+- **Programming & Automation:** Python, PowerShell, Bash, Java, JavaScript, Secure Coding, Scripting & Automation  
+- **Security Frameworks & Compliance:** ISO/IEC 27001 & 42001, NIST, MITRE ATT&CK, Risk & Compliance, Reporting  
+- **Tools & Platforms:** Splunk, Wireshark, Volatility, Nmap, Qualys  
 
 ---
 
-## Licenses & Certifications
+## 💻 Selected Projects
 
-- **AIG - Shields Up: Cybersecurity Job Simulation** (May 2025)  
-  Skills: Cybersecurity, Communication, Data Analysis, Python, Security Engineering  
-  Credential ID: PcGkinqdCiqrxCGhb
+### Enterprise Firewall & Network Segmentation
+- Designed a **segmented enterprise network** using PfSense firewall, IAM policies, and VPN  
+- Reduced attack surface by **40%** and implemented a **zero-trust security model**
 
-- **ANZ Australia - Cyber Security Management Job Simulation** (May 2025)  
-  Skills: Cybersecurity, Risk Management, Security Analysis  
-  Credential ID: ELjCMy8SvGysr8dBJ
+### DevSecOps Pipeline & Container Security
+- Automated **container vulnerability scans**, reducing security gaps by **30%**  
+- Streamlined patching workflows to ensure **secure, fast release cycles**
 
-- **Datacom - Cybersecurity Job Simulation** (May 2025)  
-  Skills: OSINT, Risk Assessment, Security Analysis  
-  Credential ID: dSvzbxL2D7mWjySsW
+### AI-Driven SOC Architecture & Incident Response
+- Built a **secure AI-driven SOC** leveraging Terraform, Kubernetes, Docker, and Python  
+- Increased threat detection by **25%** and accelerated incident response by **30%**
 
-- **Tata Group - Cybersecurity Analyst Job Simulation** (May 2025)  
-  Skills: IAM, Business Process Analysis, Solution Design  
-  Credential ID: qG7cM5WFHPxupkP4d
-
-- **AWS S3 Basics** – Coursera (Apr 2025)  
-  Skills: Amazon Web Services  
-  Credential ID: A8LQ0BIPQVT3
-
-- **Azure: Create a Virtual Machine and Deploy a Web Server** – Coursera (Apr 2025)  
-  Skills: Microsoft Azure  
-  Credential ID: SJT562N9NEAK
-
-- **Create a Virtual Private Cloud (VPC) Using AWS** – Coursera (Apr 2025)  
-  Skills: AWS Networking  
-  Credential ID: VE01KFV8H80A
-
-- **Implementing Microsoft Azure Backup** – Coursera (Apr 2025)  
-  Skills: Microsoft Azure  
-  Credential ID: 240YXGR90M6J
-
-- **ISO/IEC 27001:2022 Lead Auditor** – Mastermind (Mar 2025 – Mar 2028)  
-  Skills: Information Security Management  
-  Credential ID: xwlb8p3mbr
-
-- **Ethical Hacking and Penetration Testing** – Cybrary (Feb 2025)  
-- **Foundations of Operationalizing MITRE ATT&CK v13** – AttackIQ (Feb 2025)  
-- **Information Security and Risk Management** – Cybrary (Feb 2025)  
-- **Vulnerability Management – Foundation** – Qualys (Jan 2025)  
-- **Cloud Security Fundamentals** – Palo Alto Networks (Jan 2025)  
-- **Endpoint Detection and Response (EDR)** – Qualys (Jan 2025)  
-- **Ethical Hacking: Introduction to Ethical Hacking** – Cybrary (Jan 2025)  
-- **Ethical Hacking: Web Application Hacking** – Cybrary (Jan 2025)  
-- **Ethical Hacking: Wireless Network Hacking** – Cybrary (Jan 2025)  
-- **Introduction to Cybersecurity Awareness** – Splunk (Jan 2025)  
-- **SOC Analyst Learning Path** – LetsDefend (Jan 2025)  
+### SOC Simulation & Incident Response Lab
+- Investigated **50+ simulated attacks** using Wireshark, Nmap, and SOC tools  
+- Optimized detection playbooks by **20%** and improved response workflows  
 
 ---
 
-## Projects & Experience Highlights
 
-- **SOC Incident Management:** Successfully managed 50+ security incidents, enhancing threat detection and reducing response time by 30%  
-- **Threat Hunting:** Conducted proactive threat hunts using endpoint and network security tools, identifying emerging Indicators of Compromise (IOCs)  
-- **Cloud Security Deployments:** Designed and deployed secure AWS VPCs and Azure virtual machines aligned with best security practices  
-- **Security Automation:** Developed PowerShell scripts to automate routine SOC tasks, improving operational efficiency  
-- **Security Awareness Training:** Delivered workshops on cybersecurity fundamentals and threat awareness to non-technical teams  
 
----
 
-## Contact
+## 🏅 Certifications
 
-Feel free to connect or reach out!  
-- LinkedIn: [linkedin.com/in/oumaimasouguir](https://linkedin.com/in/oumaimasouguir)  
-- Email: oumaima.email@example.com  
+- Lead Auditor ISO/IEC 27001 (2025)  
+- AI Governance Security (2025)  
+- ISO/IEC 42001 (2025)  
+- AWS S3 – Coursera (2025)  
 
 ---
 
-*Thank you for visiting my profile! I’m always open to collaboration, learning, and new opportunities in cybersecurity.*
+## 🌍 Languages
 
+- English – B2  
+- French – B2  
+- Arabic – C2  
+- German – B2  
+
+---
+
+## ⚡ Let’s Connect
+
+I’m available for **immediate opportunities in SOC, cybersecurity, cloud security, or DevSecOps**.  
